@@ -1,0 +1,16 @@
+h1 {
+	font-family: Verdana;
+	color: green;
+}
+
+#titulo {
+	color: blue;
+}
+
+p.destaque {
+	color: red;
+}
+
+p.missao {
+	font-family: Arial;
+}
